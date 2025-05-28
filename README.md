@@ -54,6 +54,3 @@ Apresentação em vídeo com protótipos e explicações: [Assista aqui](https:/
 
 ---
 
-## 📌 Observações
-
-Essa entrega faz parte da **Entrega 01 da Atividade Prática (APS)** da disciplina de Desenvolvimento Web.
